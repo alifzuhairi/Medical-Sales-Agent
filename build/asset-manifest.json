@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AXA-react-app/static/css/main.7b909ba2.chunk.css",
+    "main.js": "/AXA-react-app/static/js/main.9eb7cbb4.chunk.js",
+    "main.js.map": "/AXA-react-app/static/js/main.9eb7cbb4.chunk.js.map",
+    "runtime-main.js": "/AXA-react-app/static/js/runtime-main.45e22657.js",
+    "runtime-main.js.map": "/AXA-react-app/static/js/runtime-main.45e22657.js.map",
+    "static/js/2.bd85cd77.chunk.js": "/AXA-react-app/static/js/2.bd85cd77.chunk.js",
+    "static/js/2.bd85cd77.chunk.js.map": "/AXA-react-app/static/js/2.bd85cd77.chunk.js.map",
+    "index.html": "/AXA-react-app/index.html",
+    "static/css/main.7b909ba2.chunk.css.map": "/AXA-react-app/static/css/main.7b909ba2.chunk.css.map",
+    "static/js/2.bd85cd77.chunk.js.LICENSE.txt": "/AXA-react-app/static/js/2.bd85cd77.chunk.js.LICENSE.txt",
+    "static/media/segment1.css": "/AXA-react-app/static/media/background1.2dfc828a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45e22657.js",
+    "static/js/2.bd85cd77.chunk.js",
+    "static/css/main.7b909ba2.chunk.css",
+    "static/js/main.9eb7cbb4.chunk.js"
+  ]
+}
